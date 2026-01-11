@@ -1,0 +1,5 @@
+{
+  "name": "Garbage Collector",
+  "description": "A high-stakes puzzle game where you play as the system's Garbage Collector. Free up RAM by deleting dead objects while preserving active memory. Created by Vicky Kumar (vickyiitp).",
+  "requestFramePermissions": []
+}
